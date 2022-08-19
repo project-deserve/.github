@@ -1,2 +1,1 @@
-# Project Deserve
-Everyone needs good healthcare
+### Everyone deserves good healthcare
